@@ -2,7 +2,7 @@
 <%@page import="net.codetojoy.*" %>
 
 <html>
-<head> <title>Silly Greeting Example</title> </head>
+<head> <title>[easter_egg_jenkins_deploy_war_multi_env]</title> </head>
 <body>
   <%
     String lang = request.getParameter("lang");
